@@ -1,0 +1,106 @@
+body{
+    width: 100%;
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 400%;
+    background-image: url("background2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+aside{
+    background-color: #ffbb7b;
+    height: 3.6em;
+    border-radius: 50px;
+    
+}
+
+a {
+    border-style: double;
+    border-color: #f9f4f9;
+    border-radius: 50px;
+    float: left;
+    color: #2c1515;
+    text-align: center;
+    padding: 0.2em ;
+    text-decoration: none;
+    font-size: 2em;
+    }
+
+a:hover {
+    background-color: #ee0800;
+    color: #f8efea;
+}
+
+    
+
+.headings{
+    background-color:#fe861d;
+    margin: 0;
+    text-align: center;
+    border-radius: 50px;
+}  
+
+.visiting{
+    margin: 0;
+    font-size: 2em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img{
+    width: 25%;
+}  
+img:hover {
+    width: 30%;
+    }
+.images{
+    position: relative;
+    margin-left: 22%;
+}
+
+.secondImages{
+    position: relative;
+    margin-left: 35%;
+}
+
+.information{
+    border-radius: 20px;
+    display:flex;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 10px;
+    border-style: groove;
+    width: 50%;
+    position: relative;
+    margin-left: 25%;
+    background-image:url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+video{
+    float: right;
+    width: 25em;
+}
+
+.location{
+    margin: 5px;
+    border-radius: 20px;
+    border-color: #f81f26;
+    background-color: #f8efed;
+    padding: 10px;
+}
+
+.georgia{
+    color: #e31743 ;
+}
+
+.nature{
+    color: #2f500f;
+}
+
+.city{
+    color:#ff9b78 ;
+}
